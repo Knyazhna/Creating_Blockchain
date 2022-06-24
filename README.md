@@ -83,7 +83,17 @@ In the terminal, run the Streamlit application by using streamlit run pychain.py
 
 Enter values for the sender, receiver, and amount, and then click the Add Block button. Do this several times to store several blocks in the ledger. Verify the block contents and hashes in the Streamlit drop-down menu. Test the blockchain validation process by using the web interface.
 
+
+![](Images/Streamlitscreen1.png)
+
+
+![](Images/Streamlitscreen2.png)
+
+
+![](Images/Streamlitscreen3.png)
+
 ---
+
 ## Contributors
 
 * Brought to you by Olga Koryachek.
