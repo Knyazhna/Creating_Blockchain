@@ -11,6 +11,8 @@ Python version Visual Studio
 ---
 
 ## Libraries Used
+
+```
 import streamlit as st from dataclasses 
 
 import dataclass from typing 
@@ -22,7 +24,7 @@ import datetime as datetime
 import pandas as pd 
 
 import hashlib
-
+```
 ---
 
 ## Instructions:
